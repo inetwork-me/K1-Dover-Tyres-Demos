@@ -1,0 +1,5 @@
+# Only the demo sites are published; working files stay local
+docs/
+proposal/
+*.png
+.claude/
